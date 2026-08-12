@@ -34,6 +34,8 @@ The dashboard analyzes employee attrition based on:
 The Power BI dashboard provides an interactive overview of employee attrition and helps identify patterns in employee turnover.
 
 ## Files
+## Dashboard Preview
 
+![HR Employee Attrition Dashboard](HR_Employee_Attrition.png)
 - HR_Employee_Attrition.pbix
 - HR_Employee_Attrition.xlsx
